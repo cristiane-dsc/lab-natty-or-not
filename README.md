@@ -5,6 +5,14 @@ Este pequeno projeto foi parte do Bootcamp Caixa - IA Generativa com Microsoft C
 ## 📒 Descrição
 Este projeto consiste em um vídeo com algumas fotos de uma jovem viajante solo chamada Daiane. Ela passou alguns dias na Itália e decidiu compartilhar um pouco da experiência para motivar outras mulheres a viajarem sozinhas. Eu poderia ter feito o projeto inteiro com apenas uma ferramenta de IA, mas escolhi diversificar e acabei usando 3 ferramentas. Dá uma olhada na próxima seção.
 
+## Resultado
+
+
+
+https://github.com/user-attachments/assets/baf93ba0-1627-4f39-9cd0-33076a22c363
+
+
+
 ## 🤖 Tecnologias Utilizadas
 
 [Deep AI](https://deepai.org/) - gera chats, imagens, vídeos e músicas baseados em prompts de texto. Foi com ela que gerei as 'fotos' da viagem.<br>
