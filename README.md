@@ -9,7 +9,7 @@ Este projeto consiste em um vídeo com algumas fotos de uma jovem viajante solo 
 
 [Deep AI](https://deepai.org/) - gera chats, imagens, vídeos e músicas baseados em prompts de texto. Foi com ela que gerei as 'fotos' da viagem.<br>
 [Tad.AI](https://tad.ai/) - gera músicas a partir de instruções escritas. Utilizei para a música de fundo do vídeo.<br>
-[Fliki AI](https://fliki.ai/) - multiferramenta bem compelta onde é possível gerar vídeos a partir de texto, além de várias outras funcionalidades. Utilisei para gerar o vídeo com narração.
+[Fliki AI](https://fliki.ai/) - multiferramenta bem compelta onde é possível gerar vídeos a partir de texto, além de várias outras funcionalidades. Utilisei para gerar o vídeo com narração.<br>
 Apresentações Google - para montar a apresentação em formato pptx que serviu de base para o vídeo.
 
 ## 🧐 Processo de Criação
